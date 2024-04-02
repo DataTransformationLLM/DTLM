@@ -26,6 +26,7 @@ openai.api_key =API_kEY
 simple_transformation(df)
 ```
 
+![image](https://github.com/DataTransformationLLM/DTLM/assets/165834205/80005467-6ea3-46f5-81c3-48c793dabbfd)
 
 ## Installation through guithub
 
