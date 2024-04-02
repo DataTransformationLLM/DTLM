@@ -9,8 +9,6 @@ from setuptools import setup, find_packages
 setup(
     name='DTLM',  # Replace with your package's name
     version='0.1.0',  # Your library's initial version
-    author='skander ghazzai',  # Your name
-    author_email='skander.ghazzai@dauphine.eu',  # Your email
     description='Data transformation using large language models',  # Short description
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
